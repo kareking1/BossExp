@@ -1,0 +1,11 @@
+assets:
+- name: 00battle.bin
+  method: binarc
+  source:
+  - name: enmp
+    type: list
+    method: listpatch
+    source:
+    - name: EnmpList.yml
+      type: enmp
+title: BossExp
